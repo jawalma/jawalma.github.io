@@ -18,9 +18,9 @@ Application Name: Budget Flow
 Description: A low barrier to entry budgeting application designed for people whom have just started or have a interest to start saving. The scope was to create a application that can deploy on both IOS and Andriod while all information remain Native. [Project and Details can be found here](https://github.com/Phlank/BudgetingMobileApp). I was mainly in charge of calculation and logic design of the application in terms of how they handle the money and budgeting allocation.
 
 Here are a few Screenshots:
-![Image](https://jawalma.github.io/master/images/new_userpage.png)
-![Image](https://jawalma.github.io/master/images/veiwAllotments.png)
-![Image](https://jawalma.github.io/master/images/userPage_withArrow.png)
+![Image](images/new_userpage.png)
+![Image](images/veiwAllotments.png)
+![Image](images/userPage_withArrow.png)
 
 ### Other Projects
 
