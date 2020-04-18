@@ -7,6 +7,7 @@ Phone: 765-808-7014
 
 Intl Phone (Bangladesh): +880 1755596697
 
+
 ### Personal Details
 An driven international student Graduatin in July 2020 looking for an entry level job or internship for work experience. I have worked in groups consistently through out my education and have demonstrated a work ethic within my time in learning.
 
@@ -17,9 +18,9 @@ Application Name: Budget Flow
 Description: A low barrier to entry budgeting application designed for people whom have just started or have a interest to start saving. The scope was to create a application that can deploy on both IOS and Andriod while all information remain Native. [Project and Details can be found here](https://github.com/Phlank/BudgetingMobileApp). I was mainly in charge of calculation and logic design of the application in terms of how they handle the money and budgeting allocation.
 
 Here are a few Screenshots:
-![Image](https://github.com/jawalma/jawalma.github.io/blob/master/images/new_userpage.png)
-![Image](https://github.com/jawalma/jawalma.github.io/blob/master/images/veiwAllotments.png)
-![Image](https://github.com/jawalma/jawalma.github.io/blob/master/images/userPage_withArrow.png)
+![Image](https://jawalma.github.io/master/images/new_userpage.png)
+![Image](https://jawalma.github.io/master/images/veiwAllotments.png)
+![Image](https://jawalma.github.io/master/images/userPage_withArrow.png)
 
 ### Other Projects
 
