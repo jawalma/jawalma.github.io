@@ -50,6 +50,7 @@ Project Name: Escape the Forest
 ```
 A 2D Platforming game part of a school project 
 to produce a video game within the span of 4 weeks.
+The project is built in Unreal Engine
 ```
 [Game can be found here]()
 
@@ -60,6 +61,13 @@ multidisciplinary team under an agile development model.
 ```
 [Game can be found here]()
 
+Project Name: Teddy Wars
+```
+A 2D platformer game developed within a small 
+multi disciplinary team with the goal of developing complete game
+within a semester.
+```
+[Game can be found here]()
 ### Education
 
 American International School Dhaka (2012-2016)
@@ -74,7 +82,7 @@ Proficent in the folowing languages and frameworks:
 -Python
 -Dart 
   --Flutter
--HTML
+-HTML and CSS
 -C
 -GML
 ```
