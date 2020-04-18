@@ -29,6 +29,8 @@ Project Name: Escape the Forest
 ```
 A 2D Platforming game part of a school project 
 to produce a video game within the span of 4 weeks.
+The game was produced by a small group of students 
+as part of the final submission for the class.
 
 The project is built in Unreal Engine 4
 ```
@@ -40,6 +42,9 @@ Project Name: Canning Heroes
 ```
 A touch based interactive game developed within a 
 multidisciplinary team under an agile development model.
+We had worked for a local museum, Minnetrista
+to create a touch based game to teach users the history
+of canning via the exhibit the game releases with. 
 
 This project was developed in Unreal Engine 4
 ```
@@ -84,6 +89,14 @@ Proficent with the following IDE's and Engines:
 -Unreal Engine 4
 -Game Maker Studio 2
 -Android Studios
+```
+
+Knowledgeable in the following fields:
+```
+-Mobile Application Design and Development
+-Web Design and Development
+-Game Design and Development
+-Systems Development
 ```
 ## Work Experience
 One Group, Intern (May 2019- May 2019)
