@@ -43,8 +43,10 @@ This project was developed in Unreal Engine 4
 Project Name: Teddy Wars
 ```
 A 2D platformer game developed within a small 
-multi disciplinary team with the goal of developing complete game
-within a semester.
+multi disciplinary team with the goal of 
+developing complete game within a semester. 
+The game was produced in a agile development 
+model.
 
 This Project was developed in Game Maker Studio 2
 ```
