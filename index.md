@@ -74,7 +74,7 @@ within a semester.
 
 American International School Dhaka (2012-2016)
 
-Ball State University (2016-2020)
+Ball State University (2016-2020), BA
 
 ### Techncial Skills
 Proficent in the folowing languages and frameworks:
