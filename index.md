@@ -25,6 +25,7 @@ Here are a few Screenshots:
 ### Other Projects
 
 Project Name: Escape the Forest
+-
 ```
 A 2D Platforming game part of a school project 
 to produce a video game within the span of 4 weeks.
@@ -33,7 +34,9 @@ The project is built in Unreal Engine 4
 ```
 [The game can be played here](https://devoncurrent.itch.io/escape-the-forest)
 
-Project Name: Canning Heroes 
+
+Project Name: Canning Heroes
+- 
 ```
 A touch based interactive game developed within a 
 multidisciplinary team under an agile development model.
@@ -42,7 +45,9 @@ This project was developed in Unreal Engine 4
 ```
 [The game can be played here](https://doctor-g.itch.io/canning-heroes)
 
+
 Project Name: Teddy Wars
+-
 ```
 A 2D platformer game developed within a small 
 multi disciplinary team with the goal of 
