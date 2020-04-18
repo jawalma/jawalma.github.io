@@ -57,7 +57,7 @@ Ball State University (2016-2020), BA
 Major: Computer Science
 
 ### Techncial Skills
-Proficent in the folowing languages and frameworks:
+Proficent in the following languages and frameworks:
 ```
 -Java
   --Both Oracle and Android
