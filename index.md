@@ -8,10 +8,10 @@ Phone: 765-808-7014
 Intl Phone (Bangladesh): +880 1755596697
 
 
-### Personal Details
+## Personal Details
 An driven international student Graduatin in July 2020 looking for an entry level job or internship for work experience. I have worked in groups consistently through out my education and have demonstrated a work ethic within my time in learning.
 
-### Capstone Project
+## Capstone Project
 
 Application Name: Budget Flow
 
@@ -22,7 +22,7 @@ Here are a few Screenshots:
 ![Image](images/veiwAllotments.png)
 ![Image](images/userPage_withArrow.png)
 
-### Other Projects
+## Other Projects
 
 Project Name: Escape the Forest
 -
@@ -57,7 +57,7 @@ model.
 
 This Project was developed in Game Maker Studio 2
 ```
-### Education
+## Education
 
 American International School Dhaka (2012-2016)
 
@@ -65,7 +65,7 @@ Ball State University (2016-2020), BA
 
 Major: Computer Science
 
-### Techncial Skills
+## Techncial Skills
 Proficent in the following languages and frameworks:
 ```
 -Java
@@ -85,7 +85,7 @@ Proficent with the following IDE's and Engines:
 -Game Maker Studio 2
 -Android Studios
 ```
-### Work Experience
+## Work Experience
 One Group, Intern (May 2019- May 2019)
 
 -worked for two weeks at family business
@@ -94,7 +94,7 @@ One Group, Intern (May 2019- May 2019)
 
 -Shadowed surperior employee and kept track of notes as well as helped schedule meeting.
 
-### Hobbies
+## Hobbies
 Hobbies include:
 ```
 - Video Games
