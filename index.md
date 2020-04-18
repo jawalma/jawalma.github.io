@@ -28,10 +28,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## CV
+The Personal CV of Jawad Al-Mamoon
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jawalma/jawalma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Personal Details
+An driven international student looking for an entry level job or internship for work experience. I have worked in groups consistently through out my education and have demonstrated a work ethic within my time in learning.
 
-### Support or Contact
+### Capstone Project
+```
+Application Name: Budget Flow
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Description: A low barrier to entry budgeting application designed for people whom have just started or have a interest to start saving.
+
+Tech Stack:
+-Andriod Studios
+-Flutter
+```
