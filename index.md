@@ -71,11 +71,14 @@ within a semester.
 ```
 [Game can be found here]()
 ### Education
+High School Education:
 
 American International School Dhaka (2012-2016)
-High School
+
+College Education:
 
 Ball State University (2016-2020), BA
+
 Major: Computer Science
 
 ### Techncial Skills
