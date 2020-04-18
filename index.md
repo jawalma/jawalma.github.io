@@ -38,7 +38,7 @@ Phone: 765-808-7014
 Intl Phone (Bangladesh): +880 1755596697
 
 ### Personal Details
-An driven international student looking for an entry level job or internship for work experience. I have worked in groups consistently through out my education and have demonstrated a work ethic within my time in learning.
+An driven international student Graduatin in July 2020 looking for an entry level job or internship for work experience. I have worked in groups consistently through out my education and have demonstrated a work ethic within my time in learning.
 
 ### Capstone Project
 
@@ -73,8 +73,10 @@ within a semester.
 ### Education
 
 American International School Dhaka (2012-2016)
+High School
 
 Ball State University (2016-2020), BA
+Major: Computer Science
 
 ### Techncial Skills
 Proficent in the folowing languages and frameworks:
