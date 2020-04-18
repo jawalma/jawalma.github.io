@@ -31,6 +31,7 @@ to produce a video game within the span of 4 weeks.
 
 The project is built in Unreal Engine 4
 ```
+[The game can be played here](https://devoncurrent.itch.io/escape-the-forest)
 
 Project Name: Canning Heroes 
 ```
@@ -39,6 +40,7 @@ multidisciplinary team under an agile development model.
 
 This project was developed in Unreal Engine 4
 ```
+[The game can be played here](https://doctor-g.itch.io/canning-heroes)
 
 Project Name: Teddy Wars
 ```
