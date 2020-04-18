@@ -1,33 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jawalma/jawalma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 # Jawad Alif Al-Mamoon
 The Personal CV of Jawad Al-Mamoon
 
@@ -44,7 +14,12 @@ An driven international student Graduatin in July 2020 looking for an entry leve
 
 Application Name: Budget Flow
 
-Description: A low barrier to entry budgeting application designed for people whom have just started or have a interest to start saving. The scope was to create a application that can deploy on both IOS and Andriod while all information remain Native. [Project and Details can be found here](https://github.com/Phlank/BudgetingMobileApp)
+Description: A low barrier to entry budgeting application designed for people whom have just started or have a interest to start saving. The scope was to create a application that can deploy on both IOS and Andriod while all information remain Native. [Project and Details can be found here](https://github.com/Phlank/BudgetingMobileApp). I was mainly in charge of calculation and logic design of the application in terms of how they handle the money and budgeting allocation.
+
+Here are a few Screenshots:
+![Image](https://github.com/jawalma/jawalma.github.io/blob/master/images/new_userpage.png)
+![Image](https://github.com/jawalma/jawalma.github.io/blob/master/images/veiwAllotments.png)
+![Image](https://github.com/jawalma/jawalma.github.io/blob/master/images/userPage_withArrow.png)
 
 ### Other Projects
 
@@ -52,24 +27,26 @@ Project Name: Escape the Forest
 ```
 A 2D Platforming game part of a school project 
 to produce a video game within the span of 4 weeks.
-The project is built in Unreal Engine
+
+The project is built in Unreal Engine 4
 ```
-[Game can be found here]()
 
 Project Name: Canning Heroes 
 ```
 A touch based interactive game developed within a 
 multidisciplinary team under an agile development model.
+
+This project was developed in Unreal Engine 4
 ```
-[Game can be found here]()
 
 Project Name: Teddy Wars
 ```
 A 2D platformer game developed within a small 
 multi disciplinary team with the goal of developing complete game
 within a semester.
+
+This Project was developed in Game Maker Studio 2
 ```
-[Game can be found here]()
 ### Education
 
 American International School Dhaka (2012-2016)
