@@ -35,6 +35,8 @@ Email: jawad298@gmail.com
 
 Phone: 765-808-7014
 
+Intl Phone (Bangladesh): +880 1755596697
+
 ### Personal Details
 An driven international student looking for an entry level job or internship for work experience. I have worked in groups consistently through out my education and have demonstrated a work ethic within my time in learning.
 
