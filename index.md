@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Jawad Alif Al-Mamoon
+# Jawad Alif Al-Mamoon
 The Personal CV of Jawad Al-Mamoon
 
 Email: jawad298@gmail.com
