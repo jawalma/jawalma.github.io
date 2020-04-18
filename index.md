@@ -30,8 +30,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Jawad Alif Al-Mamoon
 The Personal CV of Jawad Al-Mamoon
+
 Email: jawad298@gmail.com
-Phone:765-808-7014
+
+Phone: 765-808-7014
 
 ### Personal Details
 An driven international student looking for an entry level job or internship for work experience. I have worked in groups consistently through out my education and have demonstrated a work ethic within my time in learning.
@@ -59,7 +61,9 @@ multidisciplinary team under an agile development model.
 [Game can be found here]()
 
 ### Education
+
 American International School Dhaka (2012-2016)
+
 Ball State University (2016-2020)
 
 ### Techncial Skills
@@ -84,8 +88,12 @@ Proficent with the following IDE's and Engines:
 ```
 ### Work Experience
 One Group, Intern (May 2019- May 2019)
+
+-worked for two weeks at family business
+
 -Developed understanding of inter team work flow as well as communication skills.
--Responsible for handling meeting schedule and communication for superior.
+
+-Shadowed surperior employee and kept track of notes as well as helped schedule meeting.
 
 ### Hobbies
 Hobbies include:
